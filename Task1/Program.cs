@@ -9,9 +9,9 @@ namespace Task1
             Console.WriteLine("Тестове повідомлення");
             Console.WriteLine("Тестове повідомлення");
             Console.WriteLine("Тестове повідомлення");
-            Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-            Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-            Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+            Console.WriteLine("Курси Sana найкращі!");
+            Console.WriteLine("Курси Sana найкращі!");
+            Console.WriteLine("Курси Sana найкращі!");
         }
     }
 }
